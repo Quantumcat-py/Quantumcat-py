@@ -40,3 +40,10 @@ Those three grew up into the toolkit above.
 
 Python · Linux · Wireshark · networking fundamentals · blue-team / SOC basics ·
 learning in public, one broken script at a time
+
+## QuantumCat SOC Toolkit — v1.2 progress (November 2026)
+
+- **Scanner:** Quick/Standard/Deep profiles (25/100/1000 ports), one retry on filtered ports, per-port latency, and expanded risky-port reasons.
+- **Monitor + UI:** reverse-DNS peer names (labelled lookup results), live dark/light theme, and latency and retry display.
+- **Analyst:** findings now carry latency, retry flags, subnet/gateway/DNS context, and peer names, with second-look rules for likely-firewall filtered counts and slow replies.
+- **Honest status:** these are standalone script updates and app-side work in progress — the packaged app update is not live yet; it ships only when all three tools have something new to add.
