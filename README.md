@@ -49,3 +49,11 @@ learning in public, one broken script at a time
 - **Honest status:** these are standalone script updates and app-side work in progress — the packaged app update is not live yet; it ships only when all three tools have something new to add.
 
 Watch the v1.2 ad: https://www.youtube.com/shorts/jY6ccl56h80 — QuantumCat SOC Toolkit v1.2 is out — scanner profiles (25/100/1000 ports), retry + latency, peer hostnames, dark/light themes, and a smarter analyst. Still 100% local, still $12: https://quantumcatsoc.gumroad.com/l/quantumcat-soc-toolkit
+
+## QuantumCat SOC Toolkit — v1.3 progress
+
+- **Packet-level tracking (coming):** TCP and UDP packets, handshakes, flags, and flows — the toolkit currently watches connections, and v1.3 adds reading the packets themselves.
+- **Analyst update:** it will fully read, understand, and analyze packet data, not just list endpoints.
+- **Color-coded live packet feed:** built for people who like watching the feed live instead of only reading the analyst afterwards — categories are color-coded so things are easy to spot at a glance.
+- **Fully customizable colors:** users can edit colors how they want, with a full color wheel and a large range of colors, plus presets.
+- **Honest status:** v1.3 is in progress, not live yet; the packaged app on Gumroad is still v1.2.0 until v1.3 ships.
