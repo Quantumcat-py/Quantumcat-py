@@ -47,3 +47,5 @@ learning in public, one broken script at a time
 - **Monitor + UI:** reverse-DNS peer names (labelled lookup results), live dark/light theme, and latency and retry display.
 - **Analyst:** findings now carry latency, retry flags, subnet/gateway/DNS context, and peer names, with second-look rules for likely-firewall filtered counts and slow replies.
 - **Honest status:** these are standalone script updates and app-side work in progress — the packaged app update is not live yet; it ships only when all three tools have something new to add.
+
+Watch the v1.2 ad: https://www.youtube.com/shorts/jY6ccl56h80 — QuantumCat SOC Toolkit v1.2 is out — scanner profiles (25/100/1000 ports), retry + latency, peer hostnames, dark/light themes, and a smarter analyst. Still 100% local, still $12: https://quantumcatsoc.gumroad.com/l/quantumcat-soc-toolkit
